@@ -1,0 +1,17 @@
+# Task 6: Reflection
+
+1. Reflect on the differences between static and interactive visualizations.
+Static visualizations are fixed images, such as charts in reports or presentations. 
+They are useful for quickly summarizing data, but they do not allow the viewer to interact or explore beyond what is shown. 
+Interactive visualizations, on the other hand, let users zoom, filter, and select data points, giving them more control 
+and insight into the underlying information.
+
+2. Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+Dashboards provide an advantage for real-time data exploration because they combine multiple interactive components in one place. 
+Users can change inputs, update graphs instantly, and view results without needing to write code. 
+This makes dashboards especially valuable for monitoring ongoing processes or exploring large datasets efficiently.
+
+3. Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+Interactive tools like Plotly and Dash improve data communication in professional settings by making information more engaging
+ and accessible. Instead of static charts, decision-makers can directly interact with data, uncover trends, and 
+ test different perspectives. This fosters better understanding and quicker, more informed decisions.
